@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7405" started-at="2022-06-11T14:51:19Z" finished-at="2022-06-11T14:51:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7405" started-at="2022-06-11T14:51:19Z" finished-at="2022-06-11T14:51:26Z">
+      <class name="com.test.tc.TCDashboard">
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:com.test.tc.TCDashboard@39aeed2f]" name="checkTitle" duration-ms="7051" started-at="2022-06-11T14:51:19Z" finished-at="2022-06-11T14:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkCoursesName()[pri:1, instance:com.test.tc.TCDashboard@39aeed2f]" name="checkCoursesName" duration-ms="314" started-at="2022-06-11T14:51:26Z" finished-at="2022-06-11T14:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCoursesName -->
+      </class> <!-- com.test.tc.TCDashboard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
